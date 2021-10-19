@@ -1,4 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFUjG30XnjtZg/profile-displaybackgroundimage-shrink_350_1400/0/1633928182418?e=1640217600&v=beta&t=8vYpWqd-j8Z5gUrMG-ePvlsEt223J8aFZidipwyTjvY" alt="Rsverma GitHub README header image">
 
 # Hello, I'm Ramesh Verma 👋
 
