@@ -12,7 +12,7 @@
 Computer Science alumnus at [Deenbandhu Chhotu Ram University Of Science And Technology](http://www.dcrustm.ac.in/). Software development enthusiast with passion for videogames, played or created alike. Fascinated by everything that's .Net related.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Rsverma/Rsverma/main/Programmer.gif" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/Rsverma/Rsverma/main/Programmer.gif" />
 
 - 🔭 Bachelor's degree in **Computer Science** from DCRUST
 - 🌱 I’m currently working as **Senior Software Engineer** at Nirvana Solutions
