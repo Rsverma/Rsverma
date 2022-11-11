@@ -14,7 +14,7 @@
 Computer Science alumnus at [Deenbandhu Chhotu Ram University Of Science And Technology](http://www.dcrustm.ac.in/). Software development enthusiast with passion for videogames, played or created alike. Fascinated by everything that's .Net related.
 
 - 🔭 Bachelor's degree in **Computer Science** from DCRUST
-- 🌱 I’m currently working as **Senior Software Engineer** at Nirvana Solutions
+- 🌱 I’m currently working as **Senior Software Engineer**
 - 🌱 I’m currently building **Open Source White Board Animation software** and **Roadmap for learning C# from beginner to expert**
 - ⚙️ Mastering: `.cs`,`.xaml`, `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **WPF** and/or **Unity** projects
