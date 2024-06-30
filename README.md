@@ -26,5 +26,4 @@ Computer Science alumnus at [Deenbandhu Chhotu Ram University Of Science And Tec
 ### 📬 Profile Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=rsverma&show_icons=true&count_private=true" alt="rsverma" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.rsverma" alt="visitors"></p>
 
